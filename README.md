@@ -1,5 +1,7 @@
-# MyApp
+# E-BookStore
 
+Source Code of the App I coded after/while watching this [video](https://www.youtube.com/watch?v=IYI0em-xT28&t=12480s).
+<br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
